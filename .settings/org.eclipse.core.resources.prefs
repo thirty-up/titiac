@@ -1,3 +1,14 @@
 eclipse.preferences.version=1
+encoding//server/capwap/main/change_state_event.py=utf-8
+encoding//server/capwap/main/clear_configuration.py=utf-8
+encoding//server/capwap/main/configuration_status.py=utf-8
+encoding//server/capwap/main/configure_update.py=utf-8
+encoding//server/capwap/main/discovery.py=utf-8
+encoding//server/capwap/main/echo.py=utf-8
+encoding//server/capwap/main/image_data.py=utf-8
+encoding//server/capwap/main/join.py=utf-8
+encoding//server/capwap/main/reset.py=utf-8
+encoding//server/capwap/main/wlan_configuration.py=utf-8
+encoding//server/capwap/main/wtp_event.py=utf-8
 encoding//server/udp/boot.py=utf-8
 encoding//server/udp/udpsocket.py=utf-8
